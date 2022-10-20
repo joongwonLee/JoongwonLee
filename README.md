@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp
 
 <h3 align="center">🧑‍💻 My Github Stats 🧑‍💻</h3>
-//<div align="center">
+<!-- <div align="center"> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joongwonLee&show_icons=true&theme=radical)
