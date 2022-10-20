@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **joongwonLee/joongwonLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=egg&color=random&height=300&section=header&text=Joongwon%20render&fontSize=90)
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
