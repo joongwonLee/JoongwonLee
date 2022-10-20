@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=Joongwon&fontSize=70&fontColor=5050FF)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=Joongwon&fontSize=70&fontColor=5050FF&fontAlign=50)
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
