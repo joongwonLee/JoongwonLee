@@ -15,15 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=Joongwon&fontSize=70&fontColor=5050FF&fontAlign=50) -->
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-
-<h3 align="center">💻 Tech Stack 💻</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=orange"/></a>&nbsp
-<img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=white"/></a>&nbsp
-
-<h3 align="center">🧑‍💻 My Github Stats 🧑‍💻</h3>
-<!-- <div align="center"> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joongwonLee&show_icons=true&theme=radical)
