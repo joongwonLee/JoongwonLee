@@ -9,7 +9,9 @@
 </summary>
    <br>
 
-I'm ...
+I'm a developer interested in the BackEnd and DevOps.
+I'm growing into a broad-sighted developer who understands both the FrontEnd and BackEnd.
+In addition to hard skills, constantly think about and develop soft skills including project leading.
 
 
 </details>
