@@ -9,9 +9,9 @@
 </summary>
    <br>
 
-I'm a developer interested in the BackEnd and DevOps. <br>
-I'm growing into a broad-sighted developer who understands both the FrontEnd and BackEnd. <br>
-In addition to hard skills, constantly think about and develop soft skills including project leading.
+I'm a developer interested in the **BackEnd** and **DevOps**. <br>
+I'm growing into a **broad-sighted** developer who understands both the FrontEnd and BackEnd. <br>
+In addition to **hard skills**, constantly think about and develop **soft skills** including **project leading**.
 
 
 </details>
@@ -36,8 +36,19 @@ In addition to hard skills, constantly think about and develop soft skills inclu
 </summary>
 <br>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=61DAFB)  
-![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?&style=for-the-badge&logo=Dart&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=61DAFB) <br>
+![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white)
+
+</details>
+
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="20" height="20" /> I studied before... 
+</summary>
+<br>
+
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?&style=for-the-badge&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=61DAFB) <br>
+![Swift](https://img.shields.io/badge/Swift-F05138?&style=for-the-badge&logo=Swift&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?&style=for-the-badge&logo=Dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=Kotlin&logoColor=white)
 
 </details>
 
