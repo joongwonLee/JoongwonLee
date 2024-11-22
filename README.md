@@ -24,7 +24,7 @@ In addition to **hard skills**, constantly think about and develop **soft skills
 
 - SeSAC iOS 앱 개발자 데뷔 과정 2기 (2022.07 ~ 2022.12)
 - (주)넛지헬스케어 iOS 인턴 (2022.12 ~ 2023.02)
-- SSAFY 10기 Mobile 트랙 (2023.07 ~ )
+- SSAFY 10기 Mobile 트랙 (2023.07 ~ 2024.06)
 
 
 </details>
